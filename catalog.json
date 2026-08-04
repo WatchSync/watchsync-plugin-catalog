@@ -1,5 +1,58 @@
 {
   "format": "watchsync-plugin-catalog/v1",
-  "generatedAt": "2026-08-04T00:00:00.000Z",
-  "plugins": []
+  "generatedAt": "2026-08-04T06:25:20.000Z",
+  "plugins": [
+    {
+      "pluginId": "dev.watchsync.trakt",
+      "version": "4.0.0-alpha.1",
+      "displayName": "Trakt",
+      "description": "Watchlists, progression and synchronization with Trakt.",
+      "publisher": "WatchSync",
+      "capabilities": ["WATCH_LIST"],
+      "verified": true,
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-trakt/releases/download/v4.0.0-alpha.1/dev.watchsync.trakt-4.0.0-alpha.1.wsp",
+      "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-trakt",
+      "releaseChannel": "beta",
+      "sha256": "2ca7d4fdec550ef7f2962dc749892bdc08834b3209ed956fdfcbf965438cc21b"
+    },
+    {
+      "pluginId": "dev.watchsync.tr4ker",
+      "version": "4.0.0-alpha.1",
+      "displayName": "Tr4ker",
+      "description": "Search torrents indexed by Tr4ker.",
+      "publisher": "WatchSync",
+      "capabilities": ["TORRENT_SEARCH"],
+      "verified": true,
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-tr4ker/releases/download/v4.0.0-alpha.1/dev.watchsync.tr4ker-4.0.0-alpha.1.wsp",
+      "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-tr4ker",
+      "releaseChannel": "beta",
+      "sha256": "f27ef3594db4552ad8602458f0230b1d7f9bbbf0a813aa02a96a7ed9cb4695c6"
+    },
+    {
+      "pluginId": "dev.watchsync.debrid-link",
+      "version": "4.0.0-alpha.1",
+      "displayName": "Debrid-Link",
+      "description": "Debrid torrents with Debrid-Link.",
+      "publisher": "WatchSync",
+      "capabilities": ["DEBRID"],
+      "verified": true,
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-debrid-link/releases/download/v4.0.0-alpha.1/dev.watchsync.debrid-link-4.0.0-alpha.1.wsp",
+      "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-debrid-link",
+      "releaseChannel": "beta",
+      "sha256": "97f089bd7f3519d067c5d2a7b8e1a3134068b129ebc233536f98d0a7f3e4da87"
+    },
+    {
+      "pluginId": "dev.watchsync.myjdownloader",
+      "version": "4.0.0-alpha.1",
+      "displayName": "MyJDownloader",
+      "description": "Send direct links to a remote JDownloader device.",
+      "publisher": "WatchSync",
+      "capabilities": ["DIRECT_DOWNLOADER"],
+      "verified": true,
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-myjdownloader/releases/download/v4.0.0-alpha.1/dev.watchsync.myjdownloader-4.0.0-alpha.1.wsp",
+      "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-myjdownloader",
+      "releaseChannel": "beta",
+      "sha256": "90d23dc4ca11891b023b291ec97b45a6d450248e296d747a25cc7fd0f3aec708"
+    }
+  ]
 }
