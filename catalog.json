@@ -1,6 +1,6 @@
 {
   "format": "watchsync-plugin-catalog/v1",
-  "generatedAt": "2026-08-04T06:25:20.000Z",
+  "generatedAt": "2026-08-04T13:26:01.000Z",
   "plugins": [
     {
       "pluginId": "dev.watchsync.trakt",
@@ -30,16 +30,16 @@
     },
     {
       "pluginId": "dev.watchsync.debrid-link",
-      "version": "4.0.0-alpha.1",
+      "version": "4.0.0-alpha.2",
       "displayName": "Debrid-Link",
       "description": "Debrid torrents with Debrid-Link.",
       "publisher": "WatchSync",
       "capabilities": ["DEBRID"],
       "verified": true,
-      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-debrid-link/releases/download/v4.0.0-alpha.1/dev.watchsync.debrid-link-4.0.0-alpha.1.wsp",
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-debrid-link/releases/download/v4.0.0-alpha.2/dev.watchsync.debrid-link-4.0.0-alpha.2.wsp",
       "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-debrid-link",
       "releaseChannel": "beta",
-      "sha256": "97f089bd7f3519d067c5d2a7b8e1a3134068b129ebc233536f98d0a7f3e4da87"
+      "sha256": "2e643035b84cbd70caa0eea106663e6ff14458cf45857b4e30b89f3e537e1ec1"
     },
     {
       "pluginId": "dev.watchsync.myjdownloader",
