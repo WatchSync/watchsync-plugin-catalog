@@ -1,6 +1,6 @@
 {
   "format": "watchsync-plugin-catalog/v1",
-  "generatedAt": "2026-08-05T15:18:00.000Z",
+  "generatedAt": "2026-08-06T08:33:22.000Z",
   "plugins": [
     {
       "pluginId": "dev.watchsync.trakt",
@@ -43,16 +43,16 @@
     },
     {
       "pluginId": "dev.watchsync.myjdownloader",
-      "version": "4.1.0-alpha.2",
+      "version": "4.1.0-alpha.3",
       "displayName": "MyJDownloader",
       "description": "Send direct links to a remote JDownloader device.",
       "publisher": "WatchSync",
       "capabilities": ["DIRECT_DOWNLOADER"],
       "verified": true,
-      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-myjdownloader/releases/download/v4.1.0-alpha.2/dev.watchsync.myjdownloader-4.1.0-alpha.2.wsp",
+      "packageUrl": "https://github.com/WatchSync/watchsync-plugin-myjdownloader/releases/download/v4.1.0-alpha.3/dev.watchsync.myjdownloader-4.1.0-alpha.3.wsp",
       "repositoryUrl": "https://github.com/WatchSync/watchsync-plugin-myjdownloader",
       "releaseChannel": "beta",
-      "sha256": "c9495269dfb2f4692dc7dc26bd373003b784c8df90162eae9a98cd6875a6e521"
+      "sha256": "6e38ce7b54ccccf4649beb96f62f905e404b18e9f42e87587b5c724dfe69c254"
     }
   ]
 }
